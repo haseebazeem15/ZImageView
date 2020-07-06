@@ -1,3 +1,5 @@
+[![](https://jitpack.io/v/haseebazeem15/ZImageView.svg)](https://jitpack.io/#haseebazeem15/ZImageView)
+
 # ZImageView
 ZImageView is simple touchable and zoomable imageView with all gestures detections. Zoom-in &amp; Zoom-out functionality implemented.
 

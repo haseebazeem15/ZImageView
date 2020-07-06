@@ -18,7 +18,7 @@ allprojects {
 ## Gradle
 ```bash
 dependencies {
-  implementation 'com.github.haseebazeem15:ZImageView:Tag'
+  implementation 'com.github.haseebazeem15:ZImageView:1.0'
 }
 ```
 

@@ -1,14 +1,14 @@
 [![](https://jitpack.io/v/haseebazeem15/ZImageView.svg)](https://jitpack.io/#haseebazeem15/ZImageView)
 
 # ZImageView
-ZImageView is simple touchable and zoomable imageView with all gestures detections. Zoom-in &amp; Zoom-out functionality implemented.
+ZImageView is simple touchable and zoomable light weight imageView library with all gestures detections.
 
 ## Minimum API LEVEL
-GifImageView is compatible with API LEVEL 21 or above.
+GifImageView is compatible with API LEVEL 19 or above.
 
 ## Installation
 
-1) Use [jitpack](https://jitpack.io) in your build.gradle file to install GifImageView.
+1) Use [jitpack](https://jitpack.io) in your build.gradle file to install ZImageView.
 
 ```bash
 allprojects {
